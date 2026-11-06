@@ -1,0 +1,7 @@
+pandas==3.1.0
+numpy==2.5.4
+XlsxWriter==3.2.9
+crossrefapi==1.7.0
+openpyxl
+tqdm
+colorama
